@@ -1,6 +1,7 @@
 # recipe
 
 This is the front end for the [recipegpt-api](https://github.com/azatakmyradov/recipegpt-api)
+You can access demo [here](recipe.akmyradov.xyz)
 
 ## Project Setup
 
