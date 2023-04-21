@@ -6,7 +6,7 @@ import {RouterView} from 'vue-router';
     <div class="min-h-full flex flex-col justify-center items-center p-4">
         <div class="space-y-8 w-full md:w-[350px]">
             <header class="flex justify-center">
-                <h1 class="text-secondary text-center text-6xl font-['Dosis']">ChefGPT</h1>
+                <h1 class="text-secondary text-center text-6xl font-['Dosis']">RecipeGPT</h1>
             </header>
 
             <RouterView />
